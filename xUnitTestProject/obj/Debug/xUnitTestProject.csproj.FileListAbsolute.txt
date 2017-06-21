@@ -1,0 +1,5 @@
+c:\users\kalavala\documents\visual studio 2015\Projects\xUnitTestProject\xUnitTestProject\bin\Debug\xUnitTestProject.dll
+c:\users\kalavala\documents\visual studio 2015\Projects\xUnitTestProject\xUnitTestProject\bin\Debug\xUnitTestProject.pdb
+c:\users\kalavala\documents\visual studio 2015\Projects\xUnitTestProject\xUnitTestProject\obj\Debug\xUnitTestProject.csprojResolveAssemblyReference.cache
+c:\users\kalavala\documents\visual studio 2015\Projects\xUnitTestProject\xUnitTestProject\obj\Debug\xUnitTestProject.dll
+c:\users\kalavala\documents\visual studio 2015\Projects\xUnitTestProject\xUnitTestProject\obj\Debug\xUnitTestProject.pdb

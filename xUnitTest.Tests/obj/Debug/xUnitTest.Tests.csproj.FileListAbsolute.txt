@@ -1,0 +1,17 @@
+c:\users\kalavala\documents\visual studio 2015\Projects\xUnitTestProject\xUnitTest.Tests\bin\Debug\xUnitTest.Tests.dll
+c:\users\kalavala\documents\visual studio 2015\Projects\xUnitTestProject\xUnitTest.Tests\bin\Debug\xUnitTest.Tests.pdb
+c:\users\kalavala\documents\visual studio 2015\Projects\xUnitTestProject\xUnitTest.Tests\bin\Debug\xunit.abstractions.dll
+c:\users\kalavala\documents\visual studio 2015\Projects\xUnitTestProject\xUnitTest.Tests\bin\Debug\xunit.assert.dll
+c:\users\kalavala\documents\visual studio 2015\Projects\xUnitTestProject\xUnitTest.Tests\bin\Debug\xunit.core.dll
+c:\users\kalavala\documents\visual studio 2015\Projects\xUnitTestProject\xUnitTest.Tests\bin\Debug\xunit.execution.desktop.dll
+c:\users\kalavala\documents\visual studio 2015\Projects\xUnitTestProject\xUnitTest.Tests\bin\Debug\xUnitTestProject.dll
+c:\users\kalavala\documents\visual studio 2015\Projects\xUnitTestProject\xUnitTest.Tests\bin\Debug\xUnitTestProject.pdb
+c:\users\kalavala\documents\visual studio 2015\Projects\xUnitTestProject\xUnitTest.Tests\bin\Debug\xunit.assert.xml
+c:\users\kalavala\documents\visual studio 2015\Projects\xUnitTestProject\xUnitTest.Tests\bin\Debug\xunit.core.xml
+c:\users\kalavala\documents\visual studio 2015\Projects\xUnitTestProject\xUnitTest.Tests\bin\Debug\xunit.execution.desktop.xml
+c:\users\kalavala\documents\visual studio 2015\Projects\xUnitTestProject\xUnitTest.Tests\obj\Debug\xUnitTest.Tests.csprojResolveAssemblyReference.cache
+c:\users\kalavala\documents\visual studio 2015\Projects\xUnitTestProject\xUnitTest.Tests\obj\Debug\xUnitTest.Tests.dll
+c:\users\kalavala\documents\visual studio 2015\Projects\xUnitTestProject\xUnitTest.Tests\obj\Debug\xUnitTest.Tests.pdb
+c:\users\kalavala\documents\visual studio 2015\Projects\xUnitTestProject\xUnitTest.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+c:\users\kalavala\documents\visual studio 2015\Projects\xUnitTestProject\xUnitTest.Tests\bin\Debug\xunit.runner.utility.net35.dll
+c:\users\kalavala\documents\visual studio 2015\Projects\xUnitTestProject\xUnitTest.Tests\bin\Debug\xunit.runner.reporters.net452.dll
